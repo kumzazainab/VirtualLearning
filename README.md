@@ -157,7 +157,3 @@ virtual-learning/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any queries, please contact [Your Email]
